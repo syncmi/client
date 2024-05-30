@@ -1,6 +1,4 @@
 var paid = true;
-if(paid==true){
-    document.addEventListener("DOMContentLoaded", function() {
+if(paid){
         document.body.style.display = "none";
-    });
 }
